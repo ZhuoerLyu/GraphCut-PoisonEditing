@@ -1,0 +1,4 @@
+red: pixels coming from image 0168
+green: pixels coming from image 0176
+blue: pixels coming from image 0174
+yellow: pixels coming from image 0170
